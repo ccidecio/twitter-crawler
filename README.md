@@ -7,7 +7,7 @@ This repository contains a tweet crawler for Twitter. One can search queries wit
 
 To be able to search and crawl tweets, one needs to create a Twitter account. Then apply for a developer account for access to developer APIs. After the authentication process Twitter creates API and access keys for specific apps. These keys are a **required** to access Twitter database. For privacy and security reasons, they are hidden in the code. 
 
-Turkish version of these instructions is available as a [pdf](twitter_registration_guide(tr).pdf) in detailed fashion.
+Turkish version of these instructions is available as a [PDF](twitter_registration_guide(tr).pdf) in detailed fashion.
 
 ### Prerequisites
 
